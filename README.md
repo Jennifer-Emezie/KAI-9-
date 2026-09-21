@@ -3,136 +3,57 @@ IBM project creating a Robot Dog to assist the elderly
 
 <center>
 
-# Project KAI 9
-Design History File
+<center>
+
+# Team KAI 9
+Summer Project for Imperial EEE/EIE 2023/24
 
 ---
 
-**Ahmad Wahab, Hisham Khatib, Jennifer Emezie, Luke Scully, Niklas Rockenfelt, Wei Xu**
+**_Ahmad Wahab, Hisham Khatib, Jennifer Emezie, Luke Scully, Niklas Rockenfelt, Wei Xu_**
 
 ---
 
 </center>
 
-![Project KAI 9](YOUR_IMAGE_LINK_HERE)
-
-## Project Overview
-
-Project KAI 9 is an engineering design project documenting the development, design decisions, testing, and final implementation of the system.
-
-This repository contains the project documentation, design history, supporting media, and project deliverables.
-
----
-
-## Team
-
-| Team Member | Student ID |
-|:------------|:----------:|
-| Ahmad Wahab | 02422484 |
-| Hisham Khatib | 02391620 |
-| Jennifer Emezie | 02246573 |
-| Luke Scully | 02459465 |
-| Niklas Rockenfelt | 06074304 |
-| Wei Xu | 02413772 |
-
----
+![edpf_Pz1](https://github.com/user-attachments/assets/46a67a13-85f3-40a6-a8ae-1b73ef46c4a3)
 
 ## Contribution Table
 
 **Key:** o = Main Contributor; v = Co-Author
 
-| Task | Ahmad | Hisham | Jennifer | Luke | Niklas | Wei |
-|:-----|:-----:|:------:|:--------:|:----:|:------:|:---:|
-| Design | | | | | | |
-| Mechanical Design | | | | | | |
-| Electrical Design | | | | | | |
-| Software | | | | | | |
-| Testing | | | | | | |
-| Documentation | | | | | | |
-| Final Demonstration | | | | | | |
+| Task                                   | Ahmad | Hisham | Jennifer | Luke | Niklas | Wei |
+|:----------------------------------------|:-----:|:------:|:--------:|:----:|:------:|:---:|
+| Camera / Vision System (IMX500)         |       |        |          |      |        |     |
+| Heart Rate Monitor (BLE Integration)    |       |        |          |      |        |     |
+| Movement Subsystem & Navigation         |       |        |          |      |        |     |
+| Odometry & Encoder Kinematics           |       |        |          |      |        |     |
+| Main Controller / State Machine         |       |        |          |      |        |     |
+| Chassis & Enclosure Design              |       |        |          |      |        |     |
+| Power Distribution System               |       |        |          |      |        |     |
+| Audio & User Interaction                |       |        |          |      |        |     |
+| LLM / LangGraph Integration             |       |        |          |      |        |     |
+| 3D Printed Outer Shell                  |       |        |          |      |        |     |
+| Hardware Sourcing & BOM                 |       |        |          |      |        |     |
+| Charging Dock Interface                 |       |        |          |      |        |     |
 
----
-
+___
 ## Hardware
-
-![Project KAI 9 Hardware](YOUR_HARDWARE_IMAGE_LINK_HERE)
-
----
-
-## Videos
-
-### Testing
-
-Here is a video demonstrating the project's testing process:
-
-[Testing Video](YOUR_TESTING_VIDEO_LINK_HERE)
-
-### System Testing and Movement
-
-Here is a video demonstrating system and movement testing:
-
-[System and Movement Testing](YOUR_MOVEMENT_TESTING_VIDEO_LINK_HERE)
-
----
-
-## Project Documentation
-
-The complete **Design History File** contains further details regarding the engineering design process, development, testing, and final design of Project KAI 9.
-
-### Design History File
-
-[Design History File](./KAI9.pdf)
-
-### Interim Presentation
-
-[Interim Presentation](YOUR_INTERIM_PRESENTATION_LINK_HERE)
-
----
-
-## Final Demonstration
-
-Click the image below to view a video of the final demonstration.
-
+![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/user-attachments/assets/8f10170b-6a3c-44c2-b663-a20f34f43ed9)
+___
+## Videos 
+Here is a video of [age testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
 <br/>
-
-[![Project KAI 9 Final Demonstration](YOUR_FINAL_DEMO_THUMBNAIL_LINK_HERE)](YOUR_FINAL_DEMO_VIDEO_LINK_HERE)
-
----
-
-## Project Information
-
-**Project:** KAI 9  
-**Document:** Design History File  
-**Date:** June 2026
-
-### Team Members
-
-- Ahmad Wahab — 02422484
-- Hisham Khatib — 02391620
-- Jennifer Emezie — 02246573
-- Luke Scully — 02459465
-- Niklas Rockenfelt — 06074304
-- Wei Xu — 02413772
-
----
-
-## Repository Contents
-
-This repository contains the project files associated with Project KAI 9, including:
-
-- Design documentation
-- Engineering drawings
-- Hardware information
-- Software and control files
-- Testing documentation
-- Project presentations
-- Demonstration videos
-- Final Design History File
-
----
+Here is a video of [sensor and movement testing](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
+___
+## Documents 
+Please see our project write up for more detail regarding the engineering behind the team's design [`KAI9.pdf`](./KAI9.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+___
 
 ## Final Demo
-
-The final demonstration showcases the completed Project KAI 9 system and its functionality.
+Click the photo below to see a video of the final demo. 
+<br/>
+[![Photo 20-06-2023, 10 33 09 AM](https://github.com/user-attachments/assets/c051d2d2-5c7a-46a8-851f-de70be255089)
+](https://www.youtube.com/watch?v=kKdj9ryf2Y0&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=3&ab_channel=Jen)
 
 [![Final Demo](YOUR_FINAL_DEMO_THUMBNAIL_LINK_HERE)](YOUR_FINAL_DEMO_VIDEO_LINK_HERE)
