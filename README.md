@@ -49,12 +49,6 @@ Here is a video of [midway presentation](https://www.youtube.com/watch?v=HSvzeCh
 ___
 ## Documents 
 Please see our project write up for more detail regarding the engineering behind the team's design [`KAI_9_Design_Hitsory_File.pdf`]([./KAI9.pdf](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/KAI_9_Design_History_File.pdf)) and our [Interim Presentation](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Kai%209%20Project%20Update%20Persentation.pdf).
-___
 
-## Final Demo
-Click the photo below to see a video of the final demo. 
-<br/>
-[![Photo 20-06-2023, 10 33 09 AM](https://github.com/user-attachments/assets/c051d2d2-5c7a-46a8-851f-de70be255089)
-](https://www.youtube.com/watch?v=kKdj9ryf2Y0&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=3&ab_channel=Jen)
+Then our buisness 
 
-[![Final Demo](YOUR_FINAL_DEMO_THUMBNAIL_LINK_HERE)](YOUR_FINAL_DEMO_VIDEO_LINK_HERE)
