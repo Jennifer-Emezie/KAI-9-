@@ -1,5 +1,5 @@
 # Team KAI 9
-IBM project creating a Robot Dog to assist the elderly Placement Project for Imperial EEE/EIE 2025/26
+IBM project creating a Robot Dog to assist the elderly (Placement Project Imperial EEE/EIE 2025/26)
 
 ---
 
