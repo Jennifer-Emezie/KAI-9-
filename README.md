@@ -37,11 +37,10 @@ ___
 ## Hardware
 <p align="center">
   <img src="Images/shell_with_items (1).jpeg" width="350" />
-  <img src="Images/chassis_with_items (1).jpeg" width="250" />
-  <img src="Images/kai9_modifications (1).jpeg" width="200" />
+  <img src="Images/chassis_with_items (1).jpeg" width="300" />
+  <img src="Images/kai9_modifications (1).jpeg" width="250" />
 </p>
 
-![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Images/kai9_modifications%20(1).jpeg)
 ___
 ## Videos 
 Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
