@@ -1,12 +1,5 @@
-# KAI-9
-IBM project creating a Robot Dog to assist the elderly
-
-<center>
-
-<center>
-
 # Team KAI 9
-Summer Project for Imperial EEE/EIE 2023/24
+IBM project creating a Robot Dog to assist the elderly Placement Project for Imperial EEE/EIE 2025/26
 
 ---
 
