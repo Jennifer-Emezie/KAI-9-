@@ -11,7 +11,7 @@ IBM project creating a Robot Dog to assist the elderly (Placement Project Imperi
 
 <p align="center">
   <img src="Images/prototype_front (1).jpeg" width="250" />
-  <img src="Images/prototype_side (1).jpeg" width="450" />
+  <img src="Images/prototype_side (1).jpeg" width="500" />
 </p>
 
 ## Contribution Table
