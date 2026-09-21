@@ -3,7 +3,7 @@ IBM project creating a Robot Dog to assist the elderly Placement Project for Imp
 
 ---
 
-**_Ahmad Wahab, Hisham Khatib, Jennifer Emezie, Luke Scully, Niklas Rockenfelt, Wei Xu_**
+**_Hisham Khatib, Luke Scully, Jennifer Emezie, Ahmad Wahab, Niklas Rockenfelt, Wei Xu_**
 
 ---
 
