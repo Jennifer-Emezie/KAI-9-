@@ -43,9 +43,9 @@ ___
 
 ___
 ## Videos 
-Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
+Here is a video of [movement testing](https://youtube.com/shorts/19XSsxvK3Ys?feature=share)
 <br/>
-Here is a video of our [midway presentation](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
+Here is a video of our [midway presentation]([https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen](https://youtu.be/4oTXv4q4iRA))
 ___
 ## Documents 
 Please see our project write up for more detail regarding the engineering behind the team's design [`KAI_9_Design_Hitsory_File.pdf`]([./KAI9.pdf](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/KAI_9_Design_History_File.pdf)) and our [`Kai 9 Project Update Persentation.pdf`](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Kai%209%20Project%20Update%20Persentation.pdf).
