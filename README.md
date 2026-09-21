@@ -35,7 +35,11 @@ IBM project creating a Robot Dog to assist the elderly (Placement Project Imperi
 
 ___
 ## Hardware
-![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](Images/kai9_modifications (1).jpeg)
+<p align="center">
+  <img src="shell_with_items (1).jpeg" width="400" />
+  <img src="chassis_with_items (1).jpeg" width="400" />
+</p>
+![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Images/kai9_modifications%20(1).jpeg)
 ___
 ## Videos 
 Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
@@ -43,7 +47,7 @@ Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2
 Here is a video of [midway presentation](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
 ___
 ## Documents 
-Please see our project write up for more detail regarding the engineering behind the team's design [`KAI9.pdf`](./KAI9.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+Please see our project write up for more detail regarding the engineering behind the team's design [`KAI_9_Design_Hitsory_File.pdf`]([./KAI9.pdf](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/KAI_9_Design_History_File.pdf)) and our [Interim Presentation](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Kai%209%20Project%20Update%20Persentation.pdf).
 ___
 
 ## Final Demo
