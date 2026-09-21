@@ -9,8 +9,10 @@ IBM project creating a Robot Dog to assist the elderly (Placement Project Imperi
 
 </center>
 
-![edpf_Pz1](https://github.com/user-attachments/assets/46a67a13-85f3-40a6-a8ae-1b73ef46c4a3)
-
+<p align="center">
+  <img src="images/photo1.png" width="400" />
+  <img src="images/photo2.png" width="300" />
+</p>
 ## Contribution Table
 
 **Key:** o = Main Contributor; v = Co-Author
