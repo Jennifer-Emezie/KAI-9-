@@ -17,18 +17,18 @@ IBM project creating a Robot Dog to assist the elderly (Placement Project Imperi
 
 | Task                                   | Ahmad | Hisham | Jennifer | Luke | Niklas | Wei |
 |:----------------------------------------|:-----:|:------:|:--------:|:----:|:------:|:---:|
-| Camera / Vision System (IMX500)         |       |        |          |      |        |     |
-| Heart Rate Monitor (BLE Integration)    |       |        |          |      |        |     |
-| Movement Subsystem & Navigation         |       |        |          |      |        |     |
-| Odometry & Encoder Kinematics           |       |        |          |      |        |     |
-| Main Controller / State Machine         |       |        |          |      |        |     |
-| Chassis & Enclosure Design              |       |        |          |      |        |     |
-| Power Distribution System               |       |        |          |      |        |     |
-| Audio & User Interaction                |       |        |          |      |        |     |
-| LLM / LangGraph Integration             |       |        |          |      |        |     |
-| 3D Printed Outer Shell                  |       |        |          |      |        |     |
-| Hardware Sourcing & BOM                 |       |        |          |      |        |     |
-| Charging Dock Interface                 |       |        |          |      |        |     |
+| Camera / Vision System (IMX500)         |       |    o    |          |      |    o    |     |
+| Heart Rate Monitor (BLE Integration)    |       |        |      o    |      |    o    |     |
+| Movement Subsystem & Navigation         |       |   o     |          |    o  |        |     |
+| Odometry & Encoder Kinematics           |       |        |          |      |        |   o  |
+| Main Controller / State Machine         |       |    o    |          |      |        |     |
+| Chassis & Enclosure Design              |       |        |      o    |      |        |     |
+| Power Distribution System               |   o    |        |          |      |        |     |
+| Audio & User Interaction                |       |     o   |     o     |      |        |     |
+| LLM / LangGraph Integration             |       |    o    |          |      |        |   o  |
+| 3D Printed Outer Shell                  |       |        |      o    |      |        |     |
+| Hardware Sourcing & BOM                 |       |        |    o      |      |        |     |
+| Charging Dock Interface                 |   o    |        |          |      |        |     |
 
 ___
 ## Hardware
