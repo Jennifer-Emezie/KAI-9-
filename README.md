@@ -48,7 +48,7 @@ Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2
 Here is a video of [midway presentation](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
 ___
 ## Documents 
-Please see our project write up for more detail regarding the engineering behind the team's design [`KAI_9_Design_Hitsory_File.pdf`]([./KAI9.pdf](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/KAI_9_Design_History_File.pdf)) and our [Interim Presentation](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Kai%209%20Project%20Update%20Persentation.pdf).
+Please see our project write up for more detail regarding the engineering behind the team's design [`KAI_9_Design_Hitsory_File.pdf`]([./KAI9.pdf](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/KAI_9_Design_History_File.pdf)) and our ['Kai 9 Project Update Persentation.pdf'](https://github.com/Jennifer-Emezie/KAI-9-/blob/c1444b56c35e21de520894f2a1ba768d66267286/Kai%209%20Project%20Update%20Persentation.pdf).
 
-Then our buisness 
+Then our initial ['KAI9_Project_Proposal.pdf'](https://github.com/Jennifer-Emezie/KAI-9-/blob/af98aea8fba23496c9a79b72c0d55a4dad83e38b/KAI9_Project_Proposal.pdf) alongside our ['kai9_Leaflet.pdf'](https://github.com/Jennifer-Emezie/KAI-9-/blob/af98aea8fba23496c9a79b72c0d55a4dad83e38b/kai9_Leaflet.pdf) and ['K9_Hackbooth_Poster.pdf'](https://github.com/Jennifer-Emezie/KAI-9-/blob/af98aea8fba23496c9a79b72c0d55a4dad83e38b/K9_Hackbooth_Poster.pdf)
 
