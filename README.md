@@ -38,9 +38,9 @@ ___
 ![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](Images/kai9_modifications (1).jpeg)
 ___
 ## Videos 
-Here is a video of [age testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
+Here is a video of [movement testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
 <br/>
-Here is a video of [sensor and movement testing](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
+Here is a video of [midway presentation](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
 ___
 ## Documents 
 Please see our project write up for more detail regarding the engineering behind the team's design [`KAI9.pdf`](./KAI9.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
