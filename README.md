@@ -35,7 +35,7 @@ IBM project creating a Robot Dog to assist the elderly (Placement Project Imperi
 
 ___
 ## Hardware
-![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/user-attachments/assets/8f10170b-6a3c-44c2-b663-a20f34f43ed9)
+![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](Images/kai9_modifications (1).jpeg)
 ___
 ## Videos 
 Here is a video of [age testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
